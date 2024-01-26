@@ -1,3 +1,6 @@
 Me llamo Uxía, tengo 23 años y estudio primero de DAW.
 Inicialmente escogí este ciclo por diversificarme laboralmente,
 pero he descubierto que la rama de programación es muy interesante.
+
+Modificación del documento  para testeo de archivos ignorados.
+

@@ -1,1 +1,0 @@
-Esto es una prueba para comprobar que, efectivamente, puedo ejecutar commits a GitHub desde el repositorio local a traves de la terminal.
